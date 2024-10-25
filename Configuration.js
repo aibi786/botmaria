@@ -6,16 +6,16 @@ global.autoReadGc = true;
 global.autoReadAll = false;
 global.antitags = true;
 
-global.Owner = ["917059114934"];
-global.OwnerNumber = ["917059114934"];
-global.ownertag = ["917059114934"];
-global.BotName = "Maria-Md";
-global.OwnerName = "অজয় রায় চৌধুরী🙂";
+global.Owner = ["923226487042"];
+global.OwnerNumber = ["923226487042"];
+global.ownertag = ["923226487042"];
+global.BotName = "AiBi";
+global.OwnerName = "Abdul Rahman";
 global.support = "https://chat.whatsapp.com/FoS7pSPtfMqBuoireK4aAJ"
 //global.sessionName = "session";
 global.themeemoji = '🍭';
-global.packname = 'Maria';
-global.author = 'অজয় রায় চৌধুরী🙂';
+global.packname = 'aibi';
+global.author = 'Abdul Rahman';
 global.wheather = 'b686686fb596410381b60356232809'; //change with your weather api key
 global.thum = fs.readFileSync("./Assets/pic7.jpg") 
 
